@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+h5 {
+  color: aquamarine;
+  font-size: 16px;
+  margin: 1rem 0;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  margin: 2rem 0;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  margin: 1rem 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a h5 {
+  font-weight: normal;
+}
+
+div {
+  margin: 2rem 0;
+}
+
+h6 {
+  color: white;
+  text-align: right;
+  margin-right: 1rem;
+  font-weight: normal;
+}
